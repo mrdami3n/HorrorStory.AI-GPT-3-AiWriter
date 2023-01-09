@@ -17,6 +17,8 @@ Create an AI tool that creates short horror stories
 
 6. To make changes go to blog.py
 
+# How to Edit the API
+
    engine="text-davinci-003" 
    
    Change the engine the API will use. Davinci is currently the best model but uses the most tokens.
@@ -49,6 +51,7 @@ Create an AI tool that creates short horror stories
 
    Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
 
+# Socials
 
    You can follow me on Tiktok, Youtube and Twitter
 
