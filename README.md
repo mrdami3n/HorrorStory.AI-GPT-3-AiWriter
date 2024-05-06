@@ -55,13 +55,13 @@ Create an AI tool that creates short horror stories
 
    You can follow me on Tiktok, Youtube and Twitter
 
-   https://twitter.com/Ghost_idle
-   https://www.tiktok.com/@ghost.idle
-   https://www.youtube.com/@Ghost_idle
+   [Twitter](https://twitter.com/soArtificialAI/)
+   [Instagram](https://www.instagram.com/so_artificial/)
+   [Youtube](https://www.youtube.com/@SoArtificial)
 
-   and of course my GitHub
+   My Website [So Artificial](https://soartificial.com) 
 
-   https://github.com/ghostidle
+   and of course my [GitHub](https://github.com/soArtificial/)
 
 
 
