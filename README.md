@@ -55,8 +55,8 @@ Create an AI tool that creates short horror stories
 
    You can follow me on Tiktok, Youtube and Twitter
 
-   [Twitter](https://twitter.com/soArtificialAI/)
-   [Instagram](https://www.instagram.com/so_artificial/)
+   [Twitter](https://twitter.com/soArtificialAI/) |
+   [Instagram](https://www.instagram.com/so_artificial/) | 
    [Youtube](https://www.youtube.com/@SoArtificial)
 
    My Website [So Artificial](https://soartificial.com) 
