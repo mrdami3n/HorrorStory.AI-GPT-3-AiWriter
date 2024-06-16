@@ -51,17 +51,9 @@ Create an AI tool that creates short horror stories
 
    Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
 
-# Socials
+# I dont do social media 😅
 
-   You can follow me on Tiktok, Youtube and Twitter
-
-   [Twitter](https://twitter.com/soArtificialAI/) |
-   [Instagram](https://www.instagram.com/so_artificial/) | 
-   [Youtube](https://www.youtube.com/@SoArtificial)
-
-   My Website [So Artificial](https://soartificial.com) 
-
-   and of course my [GitHub](https://github.com/soArtificial/)
+My Website [So Artificial](https://soartificial.com)
 
 
 
