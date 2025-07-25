@@ -51,6 +51,6 @@ Create an AI tool that creates short horror stories
 
    Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics.
 
-Please be aware of the age of this file, it is not being updated and was a mere example of how you could use Open AI's API back in 2022.
+Please be aware of the age of this file, it is not being updated and was a mere example of how you could use Open AI's API back in 2022. May not work for newer versions of the API.
 
 
