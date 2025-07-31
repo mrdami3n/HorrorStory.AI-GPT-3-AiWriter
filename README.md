@@ -1,5 +1,5 @@
 # HorrorShort.AI with Chat GPT-3
-Create an AI tool that creates short horror stories 
+Create an AI tool that creates short horror stories created with python 
 
 # Get Started with this repo
 
